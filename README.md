@@ -1,7 +1,7 @@
 # Franky_Tank (2019)
 
-<h2>Repositorio Archivado!!</h2>
-<b>Las sucesivas mejoras se realizarán en [FrankyTank](https://github.com/OPRobots/FrankyTank)</b>
+## Repositorio Archivado!!
+**Las sucesivas mejoras se realizarán en [FrankyTank](https://github.com/OPRobots/FrankyTank)**
 
 <br>
 
